@@ -16,7 +16,7 @@
         "url": "https://github.com/jbower493/eslint-config-typescript/issues"
     },
     "homepage": "https://github.com/jbower493/eslint-config-typescript#readme",
-    "devDependencies": {
+    "dependencies": {
         "@typescript-eslint/eslint-plugin": "latest",
         "@typescript-eslint/parser": "latest",
         "eslint-plugin-jsx-a11y": "^6.6.1",
