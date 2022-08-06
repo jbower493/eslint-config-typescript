@@ -1,0 +1,16 @@
+{
+    "name": "eslint-config-jamie",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "devDependencies": {
+        "@typescript-eslint/eslint-plugin": "latest",
+        "@typescript-eslint/parser": "latest",
+        "eslint-plugin-jsx-a11y": "^6.6.1",
+        "eslint-plugin-react": "latest",
+        "prettier": "^2.7.1"
+    },
+    "peerDependencies": {
+        "eslint:": ">= 3"
+    }
+}
