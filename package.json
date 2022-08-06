@@ -1,5 +1,5 @@
 {
-    "name": "eslint-config-jamie",
+    "name": "eslint-config-typescript",
     "version": "1.0.0",
     "main": "index.js",
     "license": "MIT",
