@@ -35,9 +35,9 @@ module.exports = {
     rules: {
         'react/prop-types': 'off',
         'import/prefer-default-export': 'off',
-        'indent': ['warn', 4],
-        'linebreak-style': ['error', 'unix'],
+        'linebreak-style': ['off'],
+        'indent': ['warn', 4, { SwitchCase: 1 }],
         'quotes': ['error', 'single'],
-        'semi': ['error', 'never']
+        'semi': ['error', 'never'],
     }
 }
